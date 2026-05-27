@@ -1,0 +1,7 @@
+# Ignore model files
+backend/models/
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
